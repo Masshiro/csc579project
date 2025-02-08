@@ -65,8 +65,8 @@ To overcome these limitations, we propose a collaborative edge video analytics f
 
 # Reference
 
-<p id="ref1">[1] Gao, Guanyu, et al. "EdgeVision: Towards Collaborative Video Analytics on Distributed Edges for Performance Maximization." IEEE Transactions on Multimedia (2024).
+<p id="ref1">[1] Gao, Guanyu, et al. "EdgeVision: Towards Collaborative Video Analytics on Distributed Edges for Performance Maximization." IEEE Transactions on Multimedia, 2024.
 
-<p id="ref2">[2] Abreha, Haftay Gebreslasie, Mohammad Hayajneh, and Mohamed Adel Serhani. "Federated learning in edge computing: a systematic survey." Sensors 22.2 (2022): 450.
+<p id="ref2">[2] Abreha, Haftay Gebreslasie, et al. "Federated learning in edge computing: a systematic survey." Sensors, 2022.
 
 <p id="ref3">[3] Sun, Lin, et al. "BiSwift: Bandwidth orchestrator for multi-stream video analytics on edge." IEEE INFOCOM, 2024.
