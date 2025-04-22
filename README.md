@@ -8,3 +8,14 @@
   ```shell
   bundler exec jekyll serve
   ```
+
+- Then use browser to view:
+  ```shell
+  http://localhost:4000
+  ``` 
+
+- If error occurs:
+  ```shell
+  mv .ruby-version .ruby-version.bak
+  bundle install
+  ```

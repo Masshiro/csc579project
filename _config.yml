@@ -22,6 +22,9 @@ author: Quanwei Zhang
 navbar-links:
   About Me: "/about/"
   Proposal: "/proposal/"
+  Progress: "/progress/"
+  Methodology: "/methodology/"
+  Results: "/results/"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
