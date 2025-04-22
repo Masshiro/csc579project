@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Progress
-permalink: /Progress/
+permalink: /progress/
 ---
 
 # Update 4 (Early April)
