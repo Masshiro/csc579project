@@ -25,9 +25,10 @@ navbar-links:
   Progress: "/progress/"
   Methodology: "/methodology/"
   Results: "/results/"
-  # Resources:
-  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Resources:
+    - Flower: "https://flower.ai/"
+    - PyTorch: "https://pytorch.org/"
+    - PyTorch Datasets: "https://pytorch.org/vision/stable/datasets.html"
   # Author's home: "https://deanattali.com"
 
 include:
