@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Results
+title: Evaluation Results
 permalink: /results/
 mathjax: true
 ---

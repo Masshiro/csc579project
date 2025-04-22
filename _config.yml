@@ -23,8 +23,9 @@ navbar-links:
   About Me: "/about/"
   Proposal: "/proposal/"
   Progress: "/progress/"
-  Methodology: "/methodology/"
-  Results: "/results/"
+  Proposed Work:
+    - Methodology: "/methodology/"
+    - Evaluation Results: "/results/"
   Resources:
     - Flower: "https://flower.ai/"
     - PyTorch: "https://pytorch.org/"
