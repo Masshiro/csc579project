@@ -3,6 +3,7 @@ layout: page
 title: Progress
 permalink: /Progress/
 ---
+
 # Update 4 (Early April)
 Building on the completed work, a 6-page, submission-ready manuscript was drafted during this two-week period. Minor issues in the proposed framework were also addressed and resolved.
 
